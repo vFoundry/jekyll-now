@@ -3,7 +3,7 @@
 #
 
 # Name of your site (displayed in the header)
-name: vFoundry
+name: vfoundry
 
 # Short bio or description (displayed in the header)
 description: computer vision experiments
@@ -26,8 +26,8 @@ footer-links:
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: jekyllrb
-  stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
+  twitter: 
+  stackoverflow: http://stackoverflow.com/users/1375695/foundry
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
