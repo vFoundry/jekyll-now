@@ -27,7 +27,7 @@ footer-links:
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
   twitter: 
-  stackoverflow: http://stackoverflow.com/users/1375695/foundry
+  stackoverflow: users/1375695/foundry
   youtube: # channel/<your_long_string> or user/<user-name>
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
